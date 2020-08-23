@@ -1,6 +1,6 @@
 # pokedex
 
-Uses PokeAPI to display various pokemons with corresponding info in ReactJs & Bootstrap
+Uses PokeAPI to display various pokemons with corresponding info in ReactJs & Bootstrap with SEARCH BAR !!!
 
 ## :bulb: Motivation
 
